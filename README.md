@@ -1,6 +1,6 @@
 # Binary Search Tree (BST) Implementation
 
-This repository contains a implementation of a Binary Search Tree (BST) in Python, along with unit tests to ensure its correctness.
+This repository contains an implementation of a Binary Search Tree (BST) in Python, along with unit tests to ensure its correctness.
 
 ## Method(s)
 
